@@ -1,0 +1,96 @@
+
+div{
+    margin-top: 2px;
+    text-align: center;
+}
+.container{
+    width: auto;
+}
+.Header{ 
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 50px;
+    color: aliceblue;
+    
+    
+}
+footer{
+    margin-top: 10px;
+    height: 200px;
+    
+    margin: 10px;
+    padding: 10px;
+}
+.logo{
+    float: left;
+}
+
+.footerColumns{
+    display: flex;
+}
+.footerColumn{
+    flex: 50%;
+    margin: 10px;
+}
+footer,Header{
+    background-color: rgb(147, 147, 147);
+    padding: 10px;
+}
+
+.carousele{
+    margin: 10px;
+}
+.carousele div img{
+    width: 30%;
+    margin: 10px;
+    box-shadow: 2px 2px 1px 1px #3a3a3a;
+    
+}
+iframe{
+    margin: 10px;
+}
+h3{
+    margin: 10px;
+    padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    margin: 10px;
+    font-size: 12px;
+}
+body{
+    background-color:rgb(193, 193, 193)  ;
+}
+h2{
+    color: white;
+    font-family: josefin,sans-serif;
+    background-color: rgb(160, 160, 160);
+    height: 60px;
+    padding: 10px;
+}
+h1{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(161, 161, 161);
+}
+.header{
+    height: 60px;
+    
+    margin: 10px;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+}
+.carousele{
+    background-color: rgb(168, 168, 168);
+    
+}
